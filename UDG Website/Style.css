@@ -1,0 +1,276 @@
+body{
+    background-color: black;
+    margin: auto;
+    width: 100%;
+    overflow-x: hidden;
+}
+.navbackground{
+    background-color: black;
+}
+.nav-item{
+    color: white;
+}
+
+.HeaderText{
+    color: white;
+    margin-left: 1rem;
+    margin-top: -2rem;
+    line-height: 1;
+    width: 17rem;
+    font-size: 40px;
+
+}
+
+.HeaderInfo{
+    color: white;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    line-height: 1;
+    width: 17rem;
+    font-size: 12px;
+    line-height: 1.5rem;
+
+}
+.bigText{
+
+    margin-top: 5rem;
+    width: auto;
+}
+
+.bannerImage{
+    width: 12rem;
+    height: 43.7rem;
+    margin-left:5rem;
+    margin-top: -12rem;
+    margin-right: 3rem;
+}
+
+.BannerImageClass{
+    width: auto;
+}
+
+.fluidContain{
+    width: 100%;
+}
+
+
+/* // X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { body{
+    background-color: black;
+    margin: auto;
+}
+.navbackground{
+    background-color: black;
+}
+.nav-item{
+    color: white;
+}
+
+.HeaderText{
+    color: white;
+    margin-left: 8rem;
+    margin-top: 4rem;
+    line-height: 1;
+    width: 40rem;
+    font-size: 70px;
+
+}
+
+.HeaderInfo{
+    color: white;
+    margin-left: 8rem;
+    margin-top: 2rem;
+    line-height: 1;
+    width: 30rem;
+    font-size: 18px;
+    line-height: 1.5rem;
+
+}
+.bigText{
+
+    margin-top: 5rem;
+}
+
+.bannerImage{
+    width: auto;
+    height: 43.7rem;
+    margin-left: 1rem;
+} }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { body{
+    background-color: black;
+    margin: auto;
+}
+.navbackground{
+    background-color: black;
+}
+.nav-item{
+    color: white;
+}
+
+.HeaderText{
+    color: white;
+    margin-left: 8rem;
+    margin-top: 4rem;
+    line-height: 1;
+    width: 40rem;
+    font-size: 70px;
+
+}
+
+.HeaderInfo{
+    color: white;
+    margin-left: 8rem;
+    margin-top: 2rem;
+    line-height: 1;
+    width: 30rem;
+    font-size: 18px;
+    line-height: 1.5rem;
+
+}
+.bigText{
+
+    margin-top: 5rem;
+}
+
+.bannerImage{
+    width: auto;
+    height: 43.7rem;
+    margin-left: 1rem;
+} }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { body{
+    background-color: black;
+    margin: auto;
+}
+.navbackground{
+    background-color: black;
+}
+.nav-item{
+    color: white;
+}
+
+.HeaderText{
+    color: white;
+    margin-left: 8rem;
+    margin-top: 4rem;
+    line-height: 1;
+    width: 40rem;
+    font-size: 70px;
+
+}
+
+.HeaderInfo{
+    color: white;
+    margin-left: 8rem;
+    margin-top: 2rem;
+    line-height: 1;
+    width: 30rem;
+    font-size: 18px;
+    line-height: 1.5rem;
+
+}
+.bigText{
+
+    margin-top: 5rem;
+}
+
+.bannerImage{
+    width: auto;
+    height: 43.7rem;
+    margin-left: 1rem;
+} }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    body{
+        background-color: black;
+        margin: auto;
+    }
+    .navbackground{
+        background-color: black;
+    }
+    .nav-item{
+        color: white;
+    }
+    
+    .HeaderText{
+        color: white;
+        margin-left: 8rem;
+        margin-top: 4rem;
+        line-height: 1;
+        width: 40rem;
+        font-size: 70px;
+    
+    }
+    
+    .HeaderInfo{
+        color: white;
+        margin-left: 8rem;
+        margin-top: 2rem;
+        line-height: 1;
+        width: 30rem;
+        font-size: 18px;
+        line-height: 1.5rem;
+    
+    }
+    .bigText{
+    
+        margin-top: 5rem;
+    }
+    
+    .bannerImage{
+        width: auto;
+        height: 43.7rem;
+        margin-left: 1rem;
+        margin-top: auto;
+    }
+ }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { body{
+    background-color: black;
+    margin: auto;
+}
+.navbackground{
+    background-color: black;
+}
+.nav-item{
+    color: white;
+}
+
+.HeaderText{
+    color: white;
+    margin-left: 8rem;
+    margin-top: 4rem;
+    line-height: 1;
+    width: 40rem;
+    font-size: 70px;
+
+}
+
+.HeaderInfo{
+    color: white;
+    margin-left: 8rem;
+    margin-top: 2rem;
+    line-height: 1;
+    width: 30rem;
+    font-size: 18px;
+    line-height: 1.5rem;
+
+}
+.bigText{
+
+    margin-top: 5rem;
+}
+
+.bannerImage{
+    width: auto;
+    height: 43.7rem;
+    margin-left: 1rem;
+} }
